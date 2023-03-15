@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+ I am a Full-Stack Data Engineer with hands-on experience in SQL, Snowflake, Python and Data Visualization using Matplotli, Seaborn.
+ Also I have worked on tools like DBT, Matillion, and Snowflake.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--
 **pps-github22/pps-github22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
