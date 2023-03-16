@@ -1,6 +1,6 @@
 ### Hi there!! 👋
 
-I am Priti and, I worked as a Full-Stack Data Engineer with hands-on experience in SQL, Snowflake, Python and Data Visualization using Matplotlib, Seaborn.
+I am Priti and, I worked as a Full-Stack Data Engineer having hands-on experience in SQL, Snowflake, Python and Data Visualization using Matplotlib, Seaborn.
 Also I have worked on tools like Tableau, DBT, and Matillion.
  
  
