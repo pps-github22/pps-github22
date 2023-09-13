@@ -1,9 +1,10 @@
 ### Hi there!! 👋
 
-I am Priti and, I worked as a Full-Stack Data Engineer having hands-on experience in SQL, Snowflake, Python and Data Visualization using Matplotlib, Seaborn.
-Also I have worked on tools like Tableau, DBT, and Matillion.
- 
- 
+I am Priti and, I worked as a Full-Stack Data Engineer having hands-on experience in SQL, Snowflake, Python, and Data Visualization using Matplotlib, and Seaborn.
+Also, I have worked on tools like Tableau, DBT, Alteryx, and Matillion.
+
+- 🔭 I’m currently working on the Migration of the Alteryx Workflows to Snowflake.
+- 🌱 I’m currently learning advanced Python Concepts, which will be used in Workflow Optimization in Alteryx.
  
  
  
@@ -14,8 +15,8 @@ Also I have worked on tools like Tableau, DBT, and Matillion.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+
+ ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
